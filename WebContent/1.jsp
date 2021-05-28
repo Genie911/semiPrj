@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>깃허브</h1>
+	<h2>수정본</h2>
 </body>
 </html>
